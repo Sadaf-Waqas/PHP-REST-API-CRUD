@@ -1,5 +1,5 @@
 <?php
-include '../inc/dbcon.php';
+include 'dbcon.php';
 
 //Add Data into Customer Table
 function error422 ($message): false|string
